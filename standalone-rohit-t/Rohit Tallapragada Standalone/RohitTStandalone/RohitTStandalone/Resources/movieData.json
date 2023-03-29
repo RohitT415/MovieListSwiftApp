@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Everything Everywhere All at Once",
+        "id": 1,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Somewhere out there is a small but fanatical posse that holds Swiss Army Man on their shoulders as an unheralded classic. For the rest of us, this high-concept multiversal sci-fi is the first proper showcase of what directing duo the Daniels could do. With Michelle Yeoh launching from laundromat owner going through marital strife – basically a Mike Leigh character – to action star and back again, and then into a multitude of other adventures, Everything Everywhere All At Once does exactly what the titles implies and sends you spinning through time and space in exhilarating style.",
+        "category": "Action/Adventure",
+        "imageName": "Everything Everywhere All at Once.jpeg"
+    },
+    {
+        "name": "All Quiet on the Western Front",
+        "id": 2,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Seen 1917? Brace yourself for 1918. Netflix’s often awe-striking German-language reimagining of Erich Maria Remarque’s classic antiwar novel takes place in the dying embers of the Great War. And ‘dying’ is the operative word, because this vision of conflict is as violent a film as you’ll see this year – a cacophony of screaming shells, rumbling tanks and the rat-a-tat of flying bullets. In the middle of it all is a young German conscript (talented newcomer Felix Kammerer) just trying to stay alive. It’ll leave you dazed.",
+        "category": "Action/Adventure",
+        "imageName": "All Quiet on the Western Front.jpeg"
+    },
+    {
+        "name": "RRR",
+        "id": 3,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "There’s a reason Telugu director SS Rajamouli sits so high on our list of the 50 coolest filmmakers in the world: his OTT epics are just absurdly fun. And this year’s RRR, the third highest-grossing Indian film ever, could be the most fun of them all. The ‘Rs’ stand for ‘rise, roar and revolt’, themes that play out in a Raj-era storyline about British colonialism and an abducted child that occasionally pokes through all the insane fight scenes, razzed-up dance routines, exploding trains and tigers (there are a lot of tigers). It’s the perfect gateway drug to the highs of Telugu action cinema.",
+        "category": "Action/Adventure",
+        "imageName": "RRR.jpeg"
+    },
+    {
+        "name": "Pinocchio (Guillermo del Toro)",
+        "id": 4,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "A perfect marriage of filmmaker and source material if ever there was one, Guillermo del Toro’s stop-motion animation gives Carlo Collodi’s fairytale a beautifully intricate, tactile and enchanting new adaptation. With co-director Mark Gustafson, he sends his newly carved wooden toy on a mission to become a human boy, bringing light to his grieving carpenter creator Geppetto and scuttling joyfully though magic realms, and among frowning townsfolk and fascists alike. It’s a family film that comes without the sugarcoating: a real treasure for older kids and grown-ups, and the perfect gateway drug to Pan’s Labyrinth et al.",
+        "category": "Animation",
+        "imageName": "Pinocchio (Guillermo del Toro).jpeg"
+    },
+    {
+        "name": "Prey",
+        "id": 5,
+        "isFeatured": false,
+        "isFavorite": true,
+        "description": "Fittingly for a movie with a cloaking device at its heart, we did not see this period-set Predator flick coming, Sure, the trailer looked sufficiently promising to banish awkward memories of the last few outings from this creaking franchise, but just how much fresh life talented director Dan Trachtenberg has managed to inject into it amid all the gory, inventive offings still came as a very happy surprise. Yes, it belongs on the big screen rather than a straight-to-Hulu release but at least it's easily rewatchable – and with part-Sioux actress Amber Midthunder providing its ridiculously engaging action hero and that mandibled space bastard actually scary again, it'll be on our favourites list for years to come. ",
+        "category": "Action/Adventure",
+        "imageName": "Prey.jpeg"
+    },
+    {
+        "name": "Elvis",
+        "id": 6,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "The trailers made it look a little, well, hammy, but Baz Luhrmann’s ode to the King turns out to be a hip-shaking and hypnotic experience. Is it occasionally over-the-top? Yup. Are the maximalist visuals a lot to absorb over two-and-a-half hours? Sure. Does Tom Hanks’ waxy, fat-suited version of Colonel Parker seem to be in danger of melting from contact with the nearest bright light? That too. But for all its flaws, Elvis is an irresistible night at the pictures: a more-is-more collage of music, history and Presley pilgrimage that’s lit up by the spectacular Austin Butler.",
+        "category": "Drama",
+        "imageName": "Elvis.jpeg"
+    },
+    {
+        "name": "Nope",
+        "id": 7,
+        "isFeatured": true,
+        "isFavorite": false,
+        "description": "While the rest of us were mastering sourdough, Jordan Peele spent the pandemic fusing sci-fi, horror and westerns to create a whole new kind of monster movie. The result – with no disrespect to any our baking efforts – was even better: an unnervy, unsettling and frequently funny third Peele effort, lit up by Keke Palmer’s livewire performance, a killer score and terrifying sound design. It’s easy to over-lionise the filmmaker as the savour of horror – as one poor tweeter discovered – and Nope isn’t without flaws. But it’s a blockbuster that’d unafraid to be depart radically from the norm, securing a likely spot in the midnight movie pantheon in the process.",
+        "category": "Horror",
+        "imageName": "Nope.jpeg"
+    },
+    {
+        "name": "The Banshees of Inisherin",
+        "id": 8,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "In Bruges is an all-time comedy great, so the reunion of Colin Farrell and Brendan Gleeson under the watchful eye of director Martin McDonagh is an enticing prospect for any movie lover. And boy, does this fizzingly funny and flawlessly acted anti-buddy movie live up to expectations. Instead of a gobby hitman and his long-suffering colleague, the pair play a couple of old pals on an Irish island whose friendship hits the skids in a big way. Peppered with its writer-director’s trademark dark wit, it carries at its heart an poignant political allegory for the sorrows of The Troubles.",
+        "imageName": "The Banshees of Inisherin.jpeg",
+        "category": "Drama"
+    },
+    {
+        "name": "The Northman",
+        "id": 9,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "‘A widescreen rallying cry for cinema in the age of streaming’. So read Time Out’s admittedly fairly breathless appraisal of Robert Eggers’ brilliant, blood-soaked Viking epic when it landed in (smashed into? Ransacked?) cinemas in April. But the sentiment stands, because in an age increasingly dominated by streaming sites, The Northman is a useful reminder that the place to witness the grandest, boldest cinematic visions is on the biggest screen possible – and unless you live in an IMAX, that won’t be in your front room.",
+        "imageName": "The Northman.jpeg",
+        "category": "Action/Adventure"
+    },
+    {
+        "name": "Top Gun - Maverick",
+        "id": 10,
+        "isFeatured": false,
+        "isFavorite": true,
+        "description": "Okay, hands up who saw this practically flawless blockbuster coming? A few people probably did – this long-in-the-making Top Gun sequel was originally due out two years ago – but that enforced delay detracts not one iota from the purest widescreen thrill ride of the year so far. Tom Cruise’s ace pilot provides heart, soul and some fighter jet manoeuvres that we’re pretty sure defy every law of physics in the book. Mind you, the book gets binned early (and literally) in this one, to reinvent the so-called ‘legacy sequel’ into something that soars way above hollow Hollywood cash-ins.",
+        "imageName": "Top Gun - Maverick.jpeg",
+        "category": "Action/Adventure"
+    },
+    {
+        "name": "Utama",
+        "id": 11,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "In few places are the effects of climate change more acutely felt than among Bolivian farmers, for whom devastating drought represents an existential threat. In photographer-turned-filmmaker Alejandro Loayza Grisi’s captivating film, a married pair of llama farmers (assuredly played by non-professionals) face an uncertain future as their community, herd and way of life perish. The result is the most surprising widescreen experience of the year.",
+        "imageName": "Utama.jpeg",
+        "category": "Drama"
+    },
+    {
+        "name": "Turning Red",
+        "id": 12,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Awkwardly, no Pixar film had been solo directed by a female filmmaker until Chinese-Canadian filmmaker Domee Shi came along with this cute-as-buttons creature feature about a 13-year-old girl who turns into a red panda when big emotions come knocking. It’s based on her own childhood – okay, not the panda part – and comes freighted with the authentic growing pains of adolescence. The only pity is that it went straight to Disney+, because its surprisingly Godzilla-esque climax would have looked epic on the big screen.",
+        "imageName": "Turning Red.jpeg",
+        "category": "Animation"
+    },
+    {
+        "name": "Bones and All",
+        "id": 13,
+        "isFeatured": false,
+        "isFavorite": true,
+        "description": "Like Badlands plonked into the midst of Reagan’s America, this sensitive yet spiky adaptation of Camille DeAngelis’s coming-of-age novel charted a couple of outsiders navigating the outskirts of a shut-off society. Oh, and they just happen to eat human flesh. No biggie. On the surface, it’s a mile away from director Luca Guadagnino’s sun-kissed Call Me By Your Name, beyond starring Timothée Chalamet, but there’s connective tissue in its deeper exploration of young love and the tentative connections of sensitive souls. Look out, too, for an eyecatching turn from Taylor Russell.",
+        "imageName": "Bones and All.jpeg",
+        "category": "Horror"
+    },
+    {
+        "name": "Fire of Love",
+        "id": 14,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "This elemental, awe-inspiring doc follows two volcanologists –Maurice and Katia Krafft – to the ends of the earth and witness their passion: for this molten geological marvels and, even more movingly, for each other. It’s narrated by indie doyenne Miranda July and was a Sundance breakout hit at the beginning of the year, but it feels like one of pieces of non-fiction filmmaking that will stand the test of time. It shows us the kind of spectacular fiery abyss that most blockbusters can only dream of – and not a drop of CGI in sight.",
+        "imageName": "Fire of Love.jpeg",
+        "category": "Documentary"
+    },
+    {
+        "name": "Cow",
+        "id": 15,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Aside from being absolute gold for pun-lovers, this moo-tion picture is a bold doc from British indie director Andrea Arnold (American Honey) that’s set entirely among a herd of dairy cows. On one level, it’s just 90-minutes of voiceover and explanation-free bovine action – a whole world of moos and manure. On another, it’s a moving cycle-of-life examination of a cow’s life that’s far too unsentimental to try to steal your heart but kinda manages it anyway.",
+        "imageName": "Cow.jpeg",
+        "category": "Documentary"
+    },
+    {
+        "name": "Boiling Point",
+        "id": 16,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Proving that he can do just about anything, Stephen Graham fuels this terrific one-take drama with skittish, sweaty energy as a chef on the edge in a buzzy London restaurant – all while shucking oysters like a pro. As an advertisement for getting into the hospitality industry, it’s pure nightmare fuel. As a viewing experience, it’s a thrilling watch that left everyone who caught it feeling rinsed out like a kitchen sink at the end of a dinner service.",
+        "imageName": "Boiling Point.jpeg",
+        "category": "Drama"
+        
+    },
+    {
+        "name": "Bergman Island",
+        "id": 17,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "It’s takes chutzpah to rock up to the home of one of the true titans of cinema and make a movie that riffs on his life and work, but Mia Hansen-Løve’s sunlit relationship story set on Ingmar Bergman’s island of Fårö pulls the feat off with aplomb. Vicky Krieps and Tim Roth play two writers whose relationship seems to be hitting the skids almost imperceptibly, as they joust gently in their supposed creative haven. There are sharp observations galore here – about relationships and women’s creative emancipation – as well as a juicy, meta twist to keep you on your toes.",
+        "imageName": "Bergman Island.jpeg",
+        "category": "Drama"
+    },
+    {
+        "name": "Jackass Forever",
+        "id": 18,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "When a film gets described as a touching treatise on nostalgia, friendship and growing older, it doesn’t usually also feature a half-naked man hang-gliding into a cactus. But that’s the unique joy of this unexpectedly glorious sixth outing from Johnny Knoxville, Steve-O, Chris Pontius and the gang – a movie that combines the hilariously puerile with the gently profound, while introducing a new generation of willing young pain-junkies to the joys of the Port-A-Potty and the human ramp. It still hurts just to watch it, mind you.",
+        "imageName": "Jackass Forever.jpeg",
+        "category": "Comedy"
+    },
+    {
+        "name": "A Hero",
+        "id": 19,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "A kind of Iranian Ken Loach, Asghar Farhadi is a master at weaving thorny morality tales into a wider social framework. This Cannes hit is another probing look at life in a hierarchical, judgmental society. Its protagonist, Ramin, emerges from imprisonment for bankruptcy and finds a shot at redemption in the form of 17 gold coins found by his girlfriend. Does he do the right thing or milk the situation for financial or social capital? The genius of A Hero is in the ways Farhadi finds to turn this basic moral dilemma into a nightmarish Gordian knot that shows up a malfunctioning social order for what it is.",
+        "imageName": "A Hero.jpeg",
+        "category": "Drama"
+    },
+    {
+        "name": "Decision to Leave",
+        "id": 20,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Forget the hammer smashes and octopus guzzling of Oldboy, because this Park Chan-wook movie showcases the slowburn, cerebral side of the Korean auteur. It’s a Busan-set puzzle box of a thriller that sees a detective and a young widow locked in a complex dance involving a murder, an investigation and a lot of barely suppressed desire. As you can tell, it takes a leaf out of the Hollywood erotic thriller handbook – albeit with a chillier atmosphere and even more satisfyingly mazy plotting.",
+        "imageName": "Decision to Leave.jpeg",
+        "category": "Drama"
+    }
+]
